@@ -1,0 +1,11 @@
+{
+  "metrics": {
+    "inertia": 189.224,
+    "silhouette_score": 0.291,
+    "n_clusters": 5
+  },
+  "sample_prediction": {
+    "cluster": 4,
+    "distance_km": 12.3773
+  }
+}
